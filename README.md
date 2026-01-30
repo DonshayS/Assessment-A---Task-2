@@ -1,2 +1,8 @@
 # Assessment-A---Task-2
-Clone this repo, Create your branch using first/last name, make a small change by correcting your name for your first commit and adding in your email, commit with a meaningful message, and push to GitHub. Aim for at least two commits following scaffold → feature.”
+Hello Team, Today's assessment is all about getting comfortable with git. 
+1. Clone the repository
+2. Create your branch
+3. Edit the wrongname.html file, on the line witih your name.
+4. commit
+5. Add in your email on that same line.
+6. commit
